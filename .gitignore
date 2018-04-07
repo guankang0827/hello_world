@@ -1,0 +1,15 @@
+# Build Files
+[Bb]uild/
+[Bb]in/
+[Bb]in_native/
+vs/
+.vs/
+.vscode/
+.idea/
+nbuild/
+
+# Config Files
+CppProperties.json
+CMakeSettings.json
+.mm_param
+
